@@ -1,7 +1,6 @@
 # Destore_Bugs
 Destore_Issues
 Destore Networks Community Bug Reporting
-// Destore Networks Community Bug Reporting
 
 Welcome to the Destore Networks Community Bug Reporting repository! Here, you can report any bugs, issues, or suggestions you encounter while using our website. Your contributions help us improve the user experience and ensure a smoother browsing experience for everyone.
 
