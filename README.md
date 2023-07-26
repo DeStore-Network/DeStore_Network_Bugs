@@ -1,4 +1,4 @@
-# Destore_Bugs
+# DeStore_Network_Bugs
 Destore_Issues
 Destore Networks Community Bug Reporting
 
